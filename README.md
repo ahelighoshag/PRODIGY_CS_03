@@ -1,6 +1,7 @@
 # PRODIGY_CS_03
 
 📁 PRODIGY_CS_03 – Password Strength Checker
+<br/>
 📌 Project Title
 
 Password Strength Checker
